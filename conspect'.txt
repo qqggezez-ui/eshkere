@@ -14,3 +14,5 @@ git push origin master - обычный случай
 
 1 раз: git push -u origin master (-u - update (обновление связи))
 2 и дальше: git push
+
+git pull - загружает изменения из удаленного репозитория
